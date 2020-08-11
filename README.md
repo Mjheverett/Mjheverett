@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, my name is Matthew. I am a software developer from Atlanta, GA.
+
+I'm currently learning from the DigitalCrafts Immersive bootcamp to become a full-stack developer.
 
 <!--
 **Mjheverett/Mjheverett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
