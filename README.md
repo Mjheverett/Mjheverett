@@ -1,4 +1,6 @@
-### Hi, my name is Matthew. I am a software developer from Atlanta, GA.
+## Matthew Everett (Mjheverett)
+
+#### Hi, my name is Matthew. I am a software developer from Atlanta, GA.
 
 I'm currently learning from the DigitalCrafts Immersive bootcamp to become a full-stack developer.
 
