@@ -4,6 +4,7 @@
 
 I'm currently a Backend Developer with Codoxo in Atlanta, GA. I transitioned from engineering to software development by learning from the DigitalCrafts Immersive bootcamp.
 
+- 🌱 I’m currently learning Rust & Go
 <!--
 **Mjheverett/Mjheverett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
